@@ -14,7 +14,7 @@
 
 <img src="./assets/WhatsApp Image 2021-12-06 at 22.38.55 (1).jpeg">
 
-<img src="./assets/WhatsApp Image 2021-12-06 at 22.38.55 (2).jpeg>
+<img src="./assets/WhatsApp Image 2021-12-06 at 22.38.55 (2).jpeg">
 
 <img src="./assets/WhatsApp Image 2021-12-06 at 22.38.55.jpeg">
 
