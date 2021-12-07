@@ -3,7 +3,7 @@
     "name": "rn-2-complete-guide",
     "slug": "rn-2-complete-guide",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
